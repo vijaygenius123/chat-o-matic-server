@@ -1,0 +1,23 @@
+{
+  "name": "chat-o-matic-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/chat-o-matic-server.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/chat-o-matic-server/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/chat-o-matic-server#readme",
+  "dependencies": {
+    "graphql-yoga": "1.18.3"
+  }
+}
